@@ -17,6 +17,9 @@ Steps
    ![download (1)](https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/16f7ab2d-3e1a-4b0e-99e7-f85e9fc67875) --->
    ![extracted-version-2](https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/b0b0db01-c1c9-497d-a3e4-a476e30bf0fb)
 
+   Section 3
+   
+   
 
 
 Inspiration
