@@ -1,4 +1,4 @@
-# Concentric-Segmentation
+# Rectangular-Segmentation
 
 https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/e9dbe887-f96e-4957-a7b7-b09fcd636540
 
