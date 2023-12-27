@@ -2,14 +2,14 @@
 
 https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/e9dbe887-f96e-4957-a7b7-b09fcd636540
 
-##The Grand Prize requires:
+## The Grand Prize requires:
 1. At least 4 passages from the available full scroll data, each containing at least 140 characters of contiguous text.
 2. & 3. Of the 140 characters per passage there should be included 15% of characters which may be missing or illegible, therefore 119 characters must be legible. Legible characters only account as legible when identified on a letter by letter basis without papyrological interpolation.
 4. Confirm that submissions must contain legitimate and linguistically plausible text.
 5. Independently reproduce and verify your results using your code and documented techniques
 Though it seems bruteforce the process has obtained some good results in ink detection
 
-Steps
+## Steps
 
 1. From the centre of the scroll obtain the rectangular sections. The rectangles are rotated to be stringed well together. 
    
