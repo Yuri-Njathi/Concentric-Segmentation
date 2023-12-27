@@ -19,6 +19,9 @@ Steps
 
    Section 3
    
+   ![download (3)](https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/ea96e400-90c5-4f1b-99c8-354ce5d01110)
+   ![extracted-version-3](https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/eef87b0b-66c6-463a-b567-f3b1dbbfaab1)
+
    
 
 
