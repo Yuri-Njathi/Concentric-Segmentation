@@ -3,6 +3,10 @@
 This process is inspired by the process of looming strings together. 
 
 
+https://github.com/Yuri-Njathi/Concentric-Segmentation/assets/54037190/e9dbe887-f96e-4957-a7b7-b09fcd636540
+
+
+
 Steps
 
 1. From the centre of the scroll obtain the rectangular sections. The rectangles are rotated to be stringed well together.
